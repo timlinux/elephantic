@@ -1,0 +1,30 @@
+# Binaries
+elephantic
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Nix
+result
+result-*
+
+# Logs
+*.log
+PROMPT.log
+
+# Temp files
+*.tmp
