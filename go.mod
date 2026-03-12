@@ -1,4 +1,4 @@
-module github.com/kartoza/elephantic
+module github.com/timlinux/elephantic
 
 go 1.23
 

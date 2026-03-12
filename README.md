@@ -148,4 +148,4 @@ MIT License
 
 ---
 
-Made with love by [Kartoza](https://kartoza.com) | [Donate](https://github.com/sponsors/kartoza) | [GitHub](https://github.com/kartoza/elephantic)
+Made with love by [Kartoza](https://kartoza.com) | [Donate](https://github.com/sponsors/kartoza) | [GitHub](https://github.com/timlinux/elephantic)
